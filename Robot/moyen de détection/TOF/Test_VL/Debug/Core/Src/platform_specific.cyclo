@@ -1,0 +1,16 @@
+..\Core\Src\platform_specific.c:17:6:I2C_Init	1
+..\Core\Src\platform_specific.c:51:6:_I2cFailRecover	5
+..\Core\Src\platform_specific.c:99:6:UART_Init	1
+..\Core\Src\platform_specific.c:133:6:UART_Reboot	1
+..\Core\Src\platform_specific.c:142:6:UART_Print	1
+..\Core\Src\platform_specific.c:147:6:UART_CheckError	2
+..\Core\Src\platform_specific.c:156:13:USART2_IRQHandler	1
+..\Core\Src\platform_specific.c:162:6:HAL_UART_MspInit	1
+..\Core\Src\platform_specific.c:184:6:HAL_UART_RxCpltCallback	7
+..\Core\Src\platform_specific.c:217:6:Peek	1
+..\Core\Src\platform_specific.c:227:6:Peek16	1
+..\Core\Src\platform_specific.c:243:6:GPIO_Expander_Init	1
+..\Core\Src\platform_specific.c:267:5:_ExpandersSetAllIO	2
+..\Core\Src\platform_specific.c:287:5:_ExpanderRd	2
+..\Core\Src\platform_specific.c:313:5:_ExpanderWR	1
+..\Core\Src\platform_specific.c:326:9:Sensor_Reset	14

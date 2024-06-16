@@ -1,0 +1,7 @@
+..\Core\Src\main.c:133:5:main	14
+..\Core\Src\main.c:235:6:ResetAndInitializeAllSensors	6
+..\Core\Src\main.c:283:6:PlotPolarData	3
+..\Core\Src\main.c:304:6:TurnOnSensor	20
+..\Core\Src\main.c:387:6:ResetAllSensors	1
+..\Core\Src\main.c:411:6:MX_GPIO_Init	1
+..\Core\Src\main.c:574:6:SystemClock_Config	1
